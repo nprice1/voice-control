@@ -1,0 +1,9 @@
+lights green
+lights red
+lights blue
+lights yellow
+lights cyan
+lights purple
+lights dim
+lights off
+lights white
